@@ -1,2 +1,3 @@
 toy
-.vscode/
+.vscode/*.log
+output.o
